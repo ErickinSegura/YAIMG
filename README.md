@@ -51,10 +51,6 @@
 
    Esto instalará YAIMG como un comando global en tu sistema, permitiéndote usarlo desde cualquier lugar en la terminal.
 
-### Instalación directa via pip
-```bash
-pip install yaimg
-```
 
 ## 🛠 Uso básico
 
